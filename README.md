@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
-</a></p>
-<h1 align="center">SocialFish v3.0</h1>
-<h3 align="center">Modern Dynamic Phishing Toolkit</h3>
-
-**SocialFish v3.0** brings powerful new features for cloning modern login pages, capturing cookies, and intercepting 2FA codes with a live operator panel.
-
-## 🆕 What's New in v3.0
-
-- **Playwright Browser Automation** — Clone modern JS-heavy login pages
-- **Full Cookie Capture & Analysis** — Detailed metadata, security attributes, auth tokens
-- **Template System** — Save and reuse clones across multiple victims
+ multiple victims
 - **Live OTP Interception Panel** — Real-time 2FA code capture and injection
 - **MITM Reverse Proxy** — ngrok/cloudflared tunneling with auto-installation
 - **6 Clone Modes** — Login-only, cookies-only, or full capture
